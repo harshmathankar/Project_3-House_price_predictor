@@ -1,8 +1,6 @@
 import streamlit as st
 import joblib as jb
 import numpy as np
-import os
-st.write("Files in current folder:", os.listdir())
 
 #Loading trained model
 model = jb.load('House_price_app/house_price_model.pkl')
