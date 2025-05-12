@@ -63,12 +63,13 @@ This project predicts house prices using a regression model trained on historica
 1. Clone the repository:
 
     git clone https://github.com/your-username/Project_3-House_price_predictor.git
+   
     cd Project_3-House_price_predictor/House_price_app
 
-2. Install dependencies:
+3. Install dependencies:
     pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
    streamlit run app.py
 
 ---
