@@ -12,9 +12,6 @@ A machine learning web application that predicts the price of a house based on f
 - [Technologies Used](#technologies-used)
 - [How to Run Locally](#how-to-run-locally)
 - [Deployment](#deployment)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
