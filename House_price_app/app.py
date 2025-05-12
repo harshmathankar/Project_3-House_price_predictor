@@ -5,7 +5,7 @@ import os
 st.write("Files in current folder:", os.listdir())
 
 #Loading trained model
-model = jb.load('house_price_model.pkl')
+model = jb.load('House_price_app/house_price_model.pkl')
 
 
 #App UI
