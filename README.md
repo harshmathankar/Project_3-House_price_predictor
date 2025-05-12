@@ -4,7 +4,7 @@ A machine learning web application that predicts the price of a house based on f
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features Used](#features-used)
@@ -18,13 +18,13 @@ A machine learning web application that predicts the price of a house based on f
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project predicts house prices using a regression model trained on historical housing data. The model considers various physical and qualitative characteristics of a house to estimate its sale price. The project is presented as an interactive web application built with **Streamlit**.
 
 ---
 
-## 📊 Features Used in Model
+## Features Used in Model
 
 - `OverallQual` – Overall material and finish quality  
 - `GrLivArea` – Above grade (ground) living area (sq ft)  
